@@ -1,0 +1,7 @@
+C:\Users\siposz\Source\Repos\osztalyok1\osztalyok1\bin\Debug\osztalyok1.exe.config
+C:\Users\siposz\Source\Repos\osztalyok1\osztalyok1\bin\Debug\osztalyok1.exe
+C:\Users\siposz\Source\Repos\osztalyok1\osztalyok1\bin\Debug\osztalyok1.pdb
+C:\Users\siposz\Source\Repos\osztalyok1\osztalyok1\obj\Debug\osztalyok1.csproj.AssemblyReference.cache
+C:\Users\siposz\Source\Repos\osztalyok1\osztalyok1\obj\Debug\osztalyok1.csproj.CoreCompileInputs.cache
+C:\Users\siposz\Source\Repos\osztalyok1\osztalyok1\obj\Debug\osztalyok1.exe
+C:\Users\siposz\Source\Repos\osztalyok1\osztalyok1\obj\Debug\osztalyok1.pdb
