@@ -8,15 +8,21 @@ namespace osztalyok1
 {
     public class butorlap
     {
-        private int hosszusag;
-        private int szelesseg;
-        private string tipus;
+        private int tartolapar = 5000;
+        private int hatlapar = 500;
 
-        public butorlap(int heigth, int width, string type)
+        public butorlap(int tartolapar,int hatlapar)
         {
-            heigth = hosszusag;
-            width = szelesseg;
-            type = tipus;
+            tartolapar = 5000;
+            hatlapar = 500;
+        }
+        public butorlap(string type,int hosszusag,int szelesseg)
+        {
+
+        }
+        public void arSzamol()
+        {
+
         }
     }
 
